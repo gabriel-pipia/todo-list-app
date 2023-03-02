@@ -1,6 +1,4 @@
-# Inkefy
-
-Preview [todo-list-app-itstep.netlify.app](https://todo-list-app-itstep.netlify.app)
+# TodoListApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.3.
 
